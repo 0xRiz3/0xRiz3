@@ -103,3 +103,11 @@ I spend part of my time breaking, fixing, or automating things I probably should
 
 
 <img src="https://i.postimg.cc/6pdjQF2g/bik-banner-contributions-(1).png" widt=100%>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xRiz3/0xRiz3/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xRiz3/0xRiz3/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/0xRiz3/0xRiz3/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
